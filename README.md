@@ -11,7 +11,6 @@ A Tutee who needs to improve in a subject is able to hire a Tutor that specializ
 
 
 ## Flowchart
-![qownnotes-media-LsFdXR](flowchart.png)
 ![](flowchart.png)
 
 
