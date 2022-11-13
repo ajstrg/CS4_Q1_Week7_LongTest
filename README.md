@@ -11,7 +11,9 @@ A Tutee who needs to improve in a subject is able to hire a Tutor that specializ
 
 
 ## Flowchart
-![qownnotes-media-LsFdXR](banner.png)
+![qownnotes-media-LsFdXR](flowchart.png)
+![](flowchart.png)
+
 
 
 ### Sample run 1
@@ -212,12 +214,6 @@ John now has 800.0 pesos left
 
 6 consultations occurred.
 ```
-
-### Flowchart
-
-Right-click on the image and open in new tab to see it clearly.  :)
-
-![](flowchart.png)
 
 
 
